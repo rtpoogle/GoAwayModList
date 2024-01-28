@@ -2,7 +2,7 @@
     "name": "GoAwayModList",
     "version_number": "1.0.0",
     "description": "An updated and open-source version of HideModList.",
-    "website_url": "https://github.com/rtpoogle/LC_BaseMod",
+    "website_url": "https://github.com/rtpoogle/GoAwayModList",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
         "2018-LC_API-3.4.5"
