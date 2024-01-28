@@ -1,4 +1,4 @@
-# [Go Away ModList](https://thunderstore.io/)
+# [Go Away ModList](https://thunderstore.io/c/lethal-company/p/poogle/GoAwayModList/)
 
 ## Build Requirements
 
