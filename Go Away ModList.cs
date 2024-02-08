@@ -15,7 +15,7 @@ namespace FacilityMeltdownPatch
     {
         public const string GUID = "xyz.poogle.goml";
         public const string NAME = "Go Away ModList";
-        public const string VER = "1.0.0";
+        public const string VER = "1.0.1";
         public readonly Harmony harmony = new Harmony(GUID);
 
         public ManualLogSource LogSrc;

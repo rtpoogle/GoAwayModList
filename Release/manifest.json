@@ -1,6 +1,6 @@
 {
     "name": "GoAwayModList",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "description": "An updated and open-source version of HideModList.",
     "website_url": "https://github.com/rtpoogle/GoAwayModList",
     "dependencies": [
